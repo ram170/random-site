@@ -1,0 +1,23 @@
+.time {
+    padding: 5px 5px;
+    background-color: white;
+    color: black;
+    font-size: xx-large;
+    border: 1px solid black;
+    font-weight: 900;
+}
+
+.wholeDT {
+    text-align: center;
+    font-weight: lighter;
+    font-size: large;
+}
+
+.time-header {
+    padding: 3px 3px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.clock {
+    color: red;
+}

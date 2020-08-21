@@ -1,0 +1,14 @@
+.grid {
+    height: 40%;
+}
+
+.text {
+    font-family: monospace;
+    font-size: xx-large;
+    font-weight: lighter;
+}
+
+.grid-element-text {
+    text-align: center;
+    padding-top: 100px;
+}
